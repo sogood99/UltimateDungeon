@@ -12,15 +12,11 @@ Strategy Game developed in Unity2D.
 
 <img src="./fig/LevelPage.png" alt="Level Page" width="500">
 
-### Game1
+### Game
 
 <img src="./fig/Game1.png" alt="Gameplay 1" width="500">
 
-### Game2
-
 <img src="./fig/Game2.png" alt="Gameplay 2" width="500">
-
-### Game3
 
 <img src="./fig/Game3.png" alt="Gameplay 3" width="500">
 
